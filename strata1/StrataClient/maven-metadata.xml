@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>strata1</groupId>
+  <artifactId>StrataClient</artifactId>
+  <version>DEV</version>
+  <versioning>
+    <versions>
+      <version>DEV</version>
+    </versions>
+    <lastUpdated>20140810065003</lastUpdated>
+  </versioning>
+</metadata>
